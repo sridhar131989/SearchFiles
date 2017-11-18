@@ -7,7 +7,7 @@ Prerequisites
 	WebServer
 	
 How to Run this Project
-	Download the project from github (url)
+	Download the project from github (https://github.com/sridhar131989/SearchFiles)
 	Import the project into your IDE
 	Start your webserver
 	Goto your browser and hit http://localhost:8080/SearchWord/searchFiles?words=saml&words=sos&words=accert&words=search
